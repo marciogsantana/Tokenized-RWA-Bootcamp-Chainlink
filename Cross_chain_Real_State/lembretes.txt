@@ -1,5 +1,9 @@
 Gitbook:  https://cll-devrel.gitbook.io/tokenized-rwa-bootcamp-2024
 
+link: youtube primeiro dia: https://www.youtube.com/watch?v=iXWovCSahE0
+
+Repos:  https://github.com/andrejrakic/rwa-primer
+
 IPFS:
 
 Output
@@ -33,3 +37,20 @@ block hash	        0xedfab335387ade9aec83f0a5f161437592d335c93aec21a1c6a10647f3e
 block number	      36104416
 from	              0x0620df052c43a9d4a93e53ad755311df47401aff
 to	                RealEstateToken.setIssuer(address) 0x398a676a10025e50d61b02ed696391992cf289f3
+
+ask chainlink functions:  0x144099815e215f6080f8630c5bfc1ef9d86322ae7cda567c65ab1a5dbc9b3267
+
+hask add funds: 0x7558e0163858f7d02bdd2ffb80f81dba5cb3ae14e7ecce16b88d29226f26f9e4
+
+hash add consumer: 0x67d68a6939a7c42c9ec7c26d25b02e1b11afdb8a48c81ddf0726721d1bbaa03d
+                   0xc3156da63836934c3fb3b923046be58b9c3d6037f0ac122c16ad0e3419743252
+
+link consumer:  https://functions.chain.link/fuji/12897
+
+Issue:
+
+transaction hash	  0xff73fd75fae29608e66b2e932e580217cc74e723e2dcf7c1fc28fe1e652a04c0
+block hash	        0xa7b10ff2f1d1bc2c198f3f4fd65c3666b7594f792aeb1afe54d260296d8bdefb
+block number	      36104890
+from	              0x0620df052c43a9d4a93e53ad755311df47401aff
+to	                Issuer.issue(address,uint256,uint64,uint32,bytes32) 0x10db6faf0cf0ff8798256ee9d3734052456d3058
