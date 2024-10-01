@@ -80,3 +80,14 @@ block hash	0x9c85181b9e4ed5147563085a868adfaac1124f2b210b4efd469f8a8531a52b53
 block number	36105839
 from	        0x0620df052c43a9d4a93e53ad755311df47401aff
 to	          RealEstateToken.setAutomationForwarder(address) 0x398a676a10025e50d61b02ed696391992cf289f3
+
+link datafeeds:
+
+https://docs.chain.link/data-feeds
+
+Deploy RWALending
+
+hash: 0x0a488e13a94f6e13546f46f70ff2720014695d455a032dd221a6375b27889302 
+
+address: 0x136A8E51f3bD631226Ce3c682c5F8b206eE39FC2   
+
