@@ -1,1 +1,11 @@
 Gitbook:  https://cll-devrel.gitbook.io/tokenized-rwa-bootcamp-2024
+
+IPFS:
+
+Output
+
+ipfs://QmRYfrZ4yobkBMUD3Y4d4NV28ZeTUFCBwWSm1Z3B2Ndkca
+
+Console log
+
+QmRYfrZ4yobkBMUD3Y4d4NV28ZeTUFCBwWSm1Z3B2Ndkca
