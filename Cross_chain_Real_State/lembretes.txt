@@ -26,3 +26,10 @@ hash: 0x456733f7feb4620634af501a5f49a71a373802ccbf1114ec6b080e76ad28296e
 
 contract address: 0x10Db6FAf0cf0FF8798256EE9d3734052456d3058
 
+SetIssuer:
+
+transaction hash	0xc5b0aa4ad9dd1bfc7d11fb70b14a3c038ce9bb25043b7643b81b8d6f7facb572
+block hash	        0xedfab335387ade9aec83f0a5f161437592d335c93aec21a1c6a10647f3ebb389
+block number	      36104416
+from	              0x0620df052c43a9d4a93e53ad755311df47401aff
+to	                RealEstateToken.setIssuer(address) 0x398a676a10025e50d61b02ed696391992cf289f3
