@@ -9,3 +9,9 @@ ipfs://QmRYfrZ4yobkBMUD3Y4d4NV28ZeTUFCBwWSm1Z3B2Ndkca
 Console log
 
 QmRYfrZ4yobkBMUD3Y4d4NV28ZeTUFCBwWSm1Z3B2Ndkca
+
+Deploy contract RealEstateToken:
+
+0x51a06cadb5708e3f239c993dcf89dd9f7a95a5cc37d67110cf51fe8a15dc84fe
+
+
