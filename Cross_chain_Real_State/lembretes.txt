@@ -16,3 +16,13 @@ Hash 0x51a06cadb5708e3f239c993dcf89dd9f7a95a5cc37d67110cf51fe8a15dc84fe
 
 contract address:  0x398A676a10025E50d61B02eD696391992cF289f3
 
+functions Router address:
+
+0xA9d587a00A31A52Ed70D6026794a8FC5E2F5dCb0
+
+Deploy contract Issuer:
+
+hash: 0x456733f7feb4620634af501a5f49a71a373802ccbf1114ec6b080e76ad28296e
+
+contract address: 0x10Db6FAf0cf0FF8798256EE9d3734052456d3058
+
