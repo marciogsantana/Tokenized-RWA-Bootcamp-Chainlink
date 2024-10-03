@@ -1,6 +1,7 @@
 Gitbook:  https://cll-devrel.gitbook.io/tokenized-rwa-bootcamp-2024
 
 link: youtube primeiro dia: https://www.youtube.com/watch?v=iXWovCSahE0
+              segundo  dia: https://www.youtube.com/watch?v=OvfGvtNzEOM
 
 Repos:  https://github.com/andrejrakic/rwa-primer
 
